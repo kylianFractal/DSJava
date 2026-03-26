@@ -1,0 +1,4 @@
+1;Dupont;Alice;12;15;14
+2;Martin;Paul;8;10;9
+3;Durand;Sofia;16;18;17
+4;Bernard;Lucas;7;6;8
